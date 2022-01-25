@@ -1,10 +1,1 @@
-
-console.log('Hello worrgfgfgfgfdgfgdfgdfgdgdgfdrgld');
-
-
-
-
-
-
-
-
+console.log('Hello World')
